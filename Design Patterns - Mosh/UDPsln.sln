@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Undo Mekanizem - Memento Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State - My SOLVE", "State - My SOLVE\State - My SOLVE.csproj", "{9B3E4046-444F-4756-B4F3-6B35758224AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browse History - Iterator Pattern", "Browse History - Iterator Pattern\Browse History - Iterator Pattern.csproj", "{2E9CFE41-2B86-41C9-A575-C80A29547106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Browse History - Iterator Pattern", "Browse History - Iterator Pattern\Browse History - Iterator Pattern.csproj", "{2E9CFE41-2B86-41C9-A575-C80A29547106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store Image - My Solve", "Store Image - My Solve\Store Image - My Solve.csproj", "{2E21D663-B9B0-4B35-B5D4-B1044789466A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store Image - Strategy Pattern", "Store Image - Strategy Pattern\Store Image - Strategy Pattern.csproj", "{4800B357-4DA3-441B-8E93-9F9614873B0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +87,30 @@ Global
 		{2E9CFE41-2B86-41C9-A575-C80A29547106}.Release|x64.Build.0 = Release|Any CPU
 		{2E9CFE41-2B86-41C9-A575-C80A29547106}.Release|x86.ActiveCfg = Release|Any CPU
 		{2E9CFE41-2B86-41C9-A575-C80A29547106}.Release|x86.Build.0 = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|x64.Build.0 = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|x64.ActiveCfg = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|x64.Build.0 = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E21D663-B9B0-4B35-B5D4-B1044789466A}.Release|x86.Build.0 = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|x64.Build.0 = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x64.ActiveCfg = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x64.Build.0 = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x86.ActiveCfg = Release|Any CPU
+		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
