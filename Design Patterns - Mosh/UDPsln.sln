@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State - My SOLVE", "State -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Browse History - Iterator Pattern", "Browse History - Iterator Pattern\Browse History - Iterator Pattern.csproj", "{2E9CFE41-2B86-41C9-A575-C80A29547106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store Image - My Solve", "Store Image - My Solve\Store Image - My Solve.csproj", "{2E21D663-B9B0-4B35-B5D4-B1044789466A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store Image - My Solve", "Store Image - My Solve\Store Image - My Solve.csproj", "{2E21D663-B9B0-4B35-B5D4-B1044789466A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store Image - Strategy Pattern", "Store Image - Strategy Pattern\Store Image - Strategy Pattern.csproj", "{4800B357-4DA3-441B-8E93-9F9614873B0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store Image - Strategy Pattern", "Store Image - Strategy Pattern\Store Image - Strategy Pattern.csproj", "{4800B357-4DA3-441B-8E93-9F9614873B0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banking - My SOLVE", "Banking - My SOLVE\Banking - My SOLVE.csproj", "{8832EFD5-FD0E-431E-B160-7FB593F815E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking - Template method pattern", "Banking - Template method pattern\Banking - Template method pattern.csproj", "{7B569803-1263-40E7-A90B-F98E337EA583}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,30 @@ Global
 		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x64.Build.0 = Release|Any CPU
 		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x86.ActiveCfg = Release|Any CPU
 		{4800B357-4DA3-441B-8E93-9F9614873B0D}.Release|x86.Build.0 = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|x64.Build.0 = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Debug|x86.Build.0 = Debug|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|x64.Build.0 = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|x86.ActiveCfg = Release|Any CPU
+		{8832EFD5-FD0E-431E-B160-7FB593F815E5}.Release|x86.Build.0 = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|x64.Build.0 = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Debug|x86.Build.0 = Debug|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|x64.Build.0 = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B569803-1263-40E7-A90B-F98E337EA583}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
