@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CommandPattern___Graphical_User_Interface___My_SOLVE</RootNamespace>
+  </PropertyGroup>
+
+</Project>
