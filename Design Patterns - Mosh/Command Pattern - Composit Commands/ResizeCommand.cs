@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Command_Pattern___Composit_Commands
+namespace Command_Pattern___Undoble_Commands
 {
     public class ResizeCommand : Command
     {
