@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer Pattern - Communic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern - My SOLVE", "Mediator Pattern - My SOLVE\Mediator Pattern - My SOLVE.csproj", "{D564C138-3322-4BC2-A7C4-DEA8AA299508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Pattern", "Mediator Pattern\Mediator Pattern.csproj", "{C09E9452-488B-4F26-91D6-C958DD17BD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern", "Mediator Pattern\Mediator Pattern.csproj", "{C09E9452-488B-4F26-91D6-C958DD17BD95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern - using the Observer Pattern", "Mediator Pattern - using the Observer Pattern\Mediator Pattern - using the Observer Pattern.csproj", "{8FF0D215-6082-4365-9C9E-F0CE876170D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Pattern - using the Observer Pattern - My SOLVE", "Mediator Pattern - using the Observer Pattern - My SOLVE\Mediator Pattern - using the Observer Pattern - My SOLVE.csproj", "{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -293,6 +297,30 @@ Global
 		{C09E9452-488B-4F26-91D6-C958DD17BD95}.Release|x64.Build.0 = Release|Any CPU
 		{C09E9452-488B-4F26-91D6-C958DD17BD95}.Release|x86.ActiveCfg = Release|Any CPU
 		{C09E9452-488B-4F26-91D6-C958DD17BD95}.Release|x86.Build.0 = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|x64.Build.0 = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|x64.Build.0 = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{8FF0D215-6082-4365-9C9E-F0CE876170D0}.Release|x86.Build.0 = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x64.Build.0 = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
