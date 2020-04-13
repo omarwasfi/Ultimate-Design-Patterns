@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern", "Mediato
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern - using the Observer Pattern", "Mediator Pattern - using the Observer Pattern\Mediator Pattern - using the Observer Pattern.csproj", "{8FF0D215-6082-4365-9C9E-F0CE876170D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator Pattern - using the Observer Pattern - My SOLVE", "Mediator Pattern - using the Observer Pattern - My SOLVE\Mediator Pattern - using the Observer Pattern - My SOLVE.csproj", "{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator Pattern - using the Observer Pattern - My SOLVE", "Mediator Pattern - using the Observer Pattern - My SOLVE\Mediator Pattern - using the Observer Pattern - My SOLVE.csproj", "{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain Of Responsibility Pattern", "Chain Of Responsibility Pattern\Chain Of Responsibility Pattern.csproj", "{CED6A5D9-828B-40AD-A008-691860F4B271}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,18 @@ Global
 		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x64.Build.0 = Release|Any CPU
 		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x86.ActiveCfg = Release|Any CPU
 		{FC1BE1F0-13DE-41C4-BD11-A582D5134EB9}.Release|x86.Build.0 = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|x64.Build.0 = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Debug|x86.Build.0 = Debug|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|x64.ActiveCfg = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|x64.Build.0 = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|x86.ActiveCfg = Release|Any CPU
+		{CED6A5D9-828B-40AD-A008-691860F4B271}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
